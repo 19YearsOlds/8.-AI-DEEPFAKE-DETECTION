@@ -1,0 +1,9 @@
+flask
+fastapi
+uvicorn
+opencv-python
+numpy
+torch
+torchvision
+pillow
+python-dotenv
